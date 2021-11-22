@@ -1,0 +1,26 @@
+body{
+    background-color: darkblue;
+}
+#cajaimagen{
+    float: left;
+    width: auto;
+    margin: auto;
+    border: 1px solid #ff0000;
+}
+
+#Afghan{
+    float: right;
+    width: 300px;
+    height: 400px;
+    margin: 100px;
+    color: wheat;
+    border: 1px solid blue;
+}
+#Basset{
+    float: right;
+    width: 300px;
+    height: 400px;
+    margin: 100px;
+    color: wheat;
+    border: 1px solid blue;
+}
